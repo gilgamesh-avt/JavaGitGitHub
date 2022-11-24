@@ -11,7 +11,6 @@ public class VarArgsDemo {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		VarArgsDemo va=new VarArgsDemo();
 		va.VarArgsDemo(2,8,5);
 		va.VarArgsDemo(54,69);
